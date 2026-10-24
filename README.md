@@ -2,7 +2,7 @@
 
 **Slide through the story of the subcontinent.** Type a year or drag the timeline to see what was happening in India, from the Palaeolithic and the Indus cities to Plassey, 1857, independence and 2026. Turn any year into a shareable PNG card.
 
-> Live demo: _add your deployed URL here_
+> Live demo: https://epoch-lens-lemon.vercel.app
 
 ## Features
 
